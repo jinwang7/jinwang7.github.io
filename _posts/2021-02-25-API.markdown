@@ -12,13 +12,13 @@ Programmatic marketing is nothing but a method for advertisers and media agencie
 
 With programmatic marketing platforms like MediaMath (MM), an ad exchange, Supply-Side Platforms (SSP), Demand-Side Platform (DSP) and Data Management Platform (DMP) are all offered in one place. Data Scientists can take advantage of API to work with a variety of data on DMP. Usual tasks may cover insight reporting and programmatic targeting. Often it’s a bit difficult to set up an API with a new platform in market because there is lack of well-documented software development tool kit (SDK) for open-source programming languages like Python. The following example may help to fill the gap by showing a step by step approach to set up a Python API with MediaMath.
 
-Step #1: Set up a Python 3.x environment
-Step #2: Set up your admin ads account on MM
-Step #3: Get Client ID and Client Secret from your account manager
-Step #4: Produce a campaign report that includes media spend, performance metrics, day, state, and region (DMA)
-Step #5: Clean up the data feed and push it to local database
-Step #6: Set up daily routine to run the script automatically at 8 am on server
-Step #7: There are a few steps towards the end of programmatic marketing journey
+#Step 1: Set up a Python 3.x environment
+#Step 2: Set up your admin ads account on MM
+#Step 3: Get Client ID and Client Secret from your account manager
+#Step 4: Produce a campaign report that includes media spend, performance metrics, day, state, and region (DMA)
+#Step 5: Clean up the data feed and push it to local database
+#Step 6: Set up daily routine to run the script automatically at 8 am on server
+#Step 7: There are a few steps towards the end of programmatic marketing journey
 
 Except for #7, you can learn by doing with the source code I provided on my Github. There are a lot more to cover in #7 and I will continue to introduce how to build a predictive model (e.g. Lookalike Model), score prospective audiences and successfully target them on the MM in the next articles.
 
