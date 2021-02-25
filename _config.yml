@@ -18,23 +18,24 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jin Wang's Blog
+title: Jin Wang Blog
 email: jin.wang800@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-
+Best Practice of Statistical Modeling and Machine Learning in Marketing. 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #baseurl: "/jinwang7" # the subpath of your site, e.g. /blog
 url: "https://jinwang7.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-
+date_format: "%a, %b %-d, %Y (week %V)"
 twitter_username:
 github_username:  jinwang7
+linkedin_username: jinwang7
 
 # Build settings
 #theme: minima
-remote_theme: jekyll-theme-clean-blog
+remote_theme: jekyll/jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
