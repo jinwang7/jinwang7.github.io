@@ -5,8 +5,9 @@ date:   2021-02-25 00:30:27 -0500
 categories: jekyll update
 ---
 This article will show you a step by step way to set up API with MediaMath. You may need to understand basic Python syntax to implement the method.
-Jekyll requires blog post files to be named according to the following format:
 
+<!-- ![alt text](./img/jin.jpg) -->
+![image info](./img/Jin.jpg)
 
 Programmatic marketing is nothing but a method for advertisers and media agencies who manage their budgets nowadays. It provides an efficient way for both parties to selling and buying their ads inventory in ad exchanges. On buy side, advertisers often need to make a time to time call based on the ROI estimation by their analytics team to pick up the best deal from the available ads inventory in exchange.
 
