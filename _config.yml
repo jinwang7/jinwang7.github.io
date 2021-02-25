@@ -35,7 +35,7 @@ linkedin_username: jinwang7
 
 # Build settings
 #theme: minima
-remote_theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll #jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
