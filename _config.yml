@@ -34,7 +34,7 @@ github_username:  jinwang7
 
 # Build settings
 #theme: minima
-theme: jekyll-theme-clean-blog
+remote_theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
